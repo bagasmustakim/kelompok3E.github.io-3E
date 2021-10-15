@@ -138,11 +138,4 @@ text-align: center;
 .lesson-icon {
 position: relative;
 }
-.txt-contents{
-  width: 80%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 15px;
-  color: #1070ee;
-  opacity:0.7;
-}
+
