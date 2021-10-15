@@ -122,3 +122,27 @@ header {
 .header-right a:hover {
   background-color: rgba(255, 255, 255, 0.3);
 }
+span.menu-icon {
+color: white;
+float: right;
+font-size: 25px;
+padding: 21px 0;
+display: none;
+}
+.lesson {
+float: left;
+width: 33%;
+text-align: center;
+
+}
+.lesson-icon {
+position: relative;
+}
+.txt-contents{
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  color: #1070ee;
+  opacity:0.7;
+}
